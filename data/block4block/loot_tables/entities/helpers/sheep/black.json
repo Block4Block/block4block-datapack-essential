@@ -1,0 +1,222 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:black_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blackstone_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:chiseled_polished_blackstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:cracked_polished_blackstone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_brick_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:polished_blackstone_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gilded_blackstone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:coal_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wither_skeleton_skull"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:wither_rose"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dragon_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:ender_chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:hopper"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:obsidian"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:spawner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_fence_gate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_sign"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_trapdoor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:dark_oak_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_dark_oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stripped_dark_oak_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_stal"
+        }
+      ]
+    }
+  ]
+}

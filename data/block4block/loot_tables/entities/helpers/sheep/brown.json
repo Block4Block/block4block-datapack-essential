@@ -1,0 +1,342 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "ancient_debris"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "barrel"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "beehive"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_mushroom_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_mushroom"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brown_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "campfire"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cartography_table"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chest"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dirt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "coarse_dirt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "composter"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crafting_table"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "farmland"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "flower_pot"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "grass_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "grass_path"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jukebox"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_fence_gate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_sign"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_trapdoor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ladder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lectern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "note_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_fence_gate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_sign"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_trapdoor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "podzol"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_sand"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_soil"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_fence_gate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_sign"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_trapdoor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_jungle_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_jungle_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_oak_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_spruce_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_spruce_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "trapped_chest"
+        }
+      ]
+    }
+  ]
+}

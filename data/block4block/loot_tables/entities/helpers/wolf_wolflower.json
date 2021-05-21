@@ -1,0 +1,82 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dandelion"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "poppy"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blue_orchid"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "allium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "azure_bluet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "red_tulip"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "orange_tulip"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_tulip"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_tulip"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oxeye_daisy"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cornflower"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lily_of_the_valley"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "wither_rose"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "sunflower"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lilac"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "rose_bush"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "peony"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "flint"
+        }
+      ]
+    }
+  ]
+}

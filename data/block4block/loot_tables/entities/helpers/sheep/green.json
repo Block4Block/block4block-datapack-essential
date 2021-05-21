@@ -1,0 +1,102 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "bamboo"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cactus"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "vine"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dried_kelp_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "fern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "green_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "kelp"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "large_fern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lily_pad"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "tall_grass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_cat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_ward"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "light_blue_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "ice"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "packed_ice"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_wait"
+        }
+      ]
+    }
+  ]
+}
+
+
+        

@@ -1,0 +1,166 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "crimson_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_fence_gate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_hyphae"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_sign"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_stem"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crimson_trapdoor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_crimson_hyphae"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_crimson_stem"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_hyphae"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chiseled_nether_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cracked_nether_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nether_brick_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nether_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nether_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nether_brick_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nether_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chorus_flower"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chorus_plant"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "crying_obsidian"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mycelium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purple_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "respawn_anchor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_mellohi"
+        }
+      ]
+    }
+  ]
+}

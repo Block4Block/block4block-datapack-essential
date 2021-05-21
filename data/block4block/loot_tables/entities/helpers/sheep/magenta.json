@@ -1,0 +1,105 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "allium"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bubble_coral"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bubble_coral_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bubble_coral_fan"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lilac"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "magenta_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purpur_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purpur_pillar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purpur_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "purpur_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dragon_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "enchanted_golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mojang_banner_pattern"
+        }
+      ]
+    }
+  ]
+}
+
+
+        

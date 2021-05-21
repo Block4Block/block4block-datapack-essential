@@ -1,0 +1,254 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "warped_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_fence_gate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_fungus"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_roots"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_sign"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_stem"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_trapdoor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "warped_wart_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_warped_hyphae"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_warped_stem"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "twisting_vines"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cyan_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "prismarine"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "prismarine_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "prismarine_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "prismarine_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "prismarine_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "prismarine_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "prismarine_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dark_prismarine"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dark_prismarine_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dark_prismarine_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "diamond_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "nether_sprouts"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "sea_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_campfire"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_lantern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "soul_torch"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "golden_apple"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_13"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_cat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_blocks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_chirp"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_far"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_mall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_mellohi"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_stal"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_strad"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_ward"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_11"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_wait"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_pigstep"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "end_crystal"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "conduit"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "beacon"
+        }
+      ]
+    }
+  ]
+}

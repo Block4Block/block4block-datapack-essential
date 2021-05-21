@@ -1,0 +1,43 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "acacia_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "dark_oak_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "jungle_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "spruce_log"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_count",
+          "count": {
+            "min": 1,
+            "max": 10
+          }
+        }
+      ]
+    }
+  ]
+}

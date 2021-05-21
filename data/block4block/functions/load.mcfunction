@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"Block4Block brought to you || ","bold":true,"color":"dark_aqua"},{"text":"by HasJamOn","bold":true,"color":"aqua","clickEvent":{"action":"open_url","value":"https://hasjamon.github.io"}}]

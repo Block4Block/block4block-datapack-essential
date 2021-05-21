@@ -1,0 +1,78 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "brain_coral"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brain_coral_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "brain_coral_fan"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "netherrack"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "peony"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_tulip"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "pink_wool"
+        }
+      ]
+    }
+  ]
+}

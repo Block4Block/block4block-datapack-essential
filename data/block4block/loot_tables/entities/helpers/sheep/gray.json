@@ -1,0 +1,250 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "acacia_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "anvil"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "basalt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "blast_furnace"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cauldron"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chain"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chipped_anvil"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone_brick_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mossy_stone_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mossy_stone_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mossy_stone_brick_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mossy_stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "infested_chiseled_stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "infested_cobblestone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "infested_cracked_stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "infested_mossy_stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "infested_stone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "infested_stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chiseled_stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cracked_stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "coal_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "redstone_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gold_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lapis_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "iron_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "emerald_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "diamond_ore"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblestone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblestone_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblestone_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobblestone_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "damaged_anvil"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gravel"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "gray_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lever"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mossy_cobblestone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mossy_cobblestone_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mossy_cobblestone_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mossy_cobblestone_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "netherite_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "polished_basalt"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stone_stairs"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+        

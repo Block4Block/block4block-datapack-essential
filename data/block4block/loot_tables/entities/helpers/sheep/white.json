@@ -1,0 +1,254 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "white_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_tulip"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "white_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "chiseled_quartz_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "smooth_quartz"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "smooth_quartz_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "smooth_quartz_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quartz_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quartz_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quartz_pillar"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quartz_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "quartz_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "bone_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "diorite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "diorite_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "diorite_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "diorite_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "snow_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "snow"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_button"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_door"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_fence_gate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_fence"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_leaves"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_planks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_pressure_plate"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_sapling"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_sign"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_trapdoor"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "birch_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_birch_log"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "stripped_birch_wood"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "cobweb"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "turtle_egg"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "end_stone"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "end_stone_brick_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "end_stone_brick_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "end_stone_brick_wall"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "end_stone_bricks"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "end_rod"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "mushroom_stem"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lily_of_the_valley"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "polished_diorite"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "polished_diorite_slab"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "polished_diorite_stairs"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "flower_banner_pattern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "globe_banner_pattern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "piglin_banner_pattern"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_strad"
+        }
+      ]
+    }
+  ]
+}

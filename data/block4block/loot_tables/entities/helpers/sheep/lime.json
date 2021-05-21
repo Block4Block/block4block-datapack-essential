@@ -1,0 +1,86 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "emerald_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_banner"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_bed"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_carpet"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_concrete_powder"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_concrete"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_glazed_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_shulker_box"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_stained_glass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_stained_glass_pane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_terracotta"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "lime_wool"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "melon"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "sea_pickle"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "seagrass"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "slime_block"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "sugar_cane"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_cat"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "music_disc_far"
+        }
+      ]
+    }
+  ]
+}
