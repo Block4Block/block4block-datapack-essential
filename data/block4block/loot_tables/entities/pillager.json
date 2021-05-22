@@ -5,23 +5,23 @@
       "rolls": 1,
       "entries": [
         {
-          "rolls": 1,
-          "entries": [
+          "type": "minecraft:loot_table",
+          "name": "block4block:entities/helpers/raiders_clay",
+          "functions": [
             {
-              "type": "minecraft:loot_table",
-              "name": "block4block:entities/helpers/raiders_clay",
-              "functions": [
-                {
-                  "function": "minecraft:set_count",
-                  "count": {
-                    "min": 0,
-                    "max": 5
-                  }
-                }
-              ]
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 5
+              }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
         {
           "type": "minecraft:loot_table",
           "name": "block4block:entities/helpers/randomdrop"
