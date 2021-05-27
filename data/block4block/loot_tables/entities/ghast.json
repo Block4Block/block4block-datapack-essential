@@ -65,15 +65,6 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/helpers/ghast_ghastone"
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
           "name": "block4block:entities/helpers/nether_mobs_netherrack"
         }
       ],

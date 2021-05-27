@@ -79,21 +79,6 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/helpers/pig_zombified_piglin_brute_hoglin_zoglin_dirt",
-          "conditions": [
-            {
-              "condition": "minecraft:random_chance",
-              "chance": 0.3
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
           "name": "block4block:entities/helpers/nether_mobs_netherrack"
         }
       ],

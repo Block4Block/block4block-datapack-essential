@@ -5,20 +5,15 @@
       "rolls": 1,
       "entries": [
         {
-          "rolls": 1,
-          "entries": [
+          "type": "minecraft:item",
+          "name": "ice",
+          "functions": [
             {
-              "type": "minecraft:item",
-              "name": "ice",
-              "functions": [
-                {
-                  "function": "minecraft:set_count",
-                  "count": {
-                    "min": 0,
-                    "max": 5
-                  }
-                }
-              ]
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 5
+              }
             }
           ]
         }
