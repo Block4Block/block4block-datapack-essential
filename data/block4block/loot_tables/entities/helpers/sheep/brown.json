@@ -110,7 +110,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "grass_path"
+          "name": "dirt_path"
         },
         {
           "type": "minecraft:item",

@@ -745,7 +745,7 @@
                 {"type": "minecraft:item",
                 "name":"minecraft:grass_block"},
                 {"type": "minecraft:item",
-                "name":"minecraft:grass_path"},
+                "name":"minecraft:dirt_path"},
                 {"type": "minecraft:item",
                 "name":"minecraft:gravel"},
                 {"type": "minecraft:item",
