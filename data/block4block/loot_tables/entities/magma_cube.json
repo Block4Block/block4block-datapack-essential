@@ -34,24 +34,6 @@
           "name": "block4block:entities/helpers/randomdrop"
         }
       ]
-    },
-    {
-      "rolls": 1,
-      "entries": [
-        {
-          "type": "minecraft:loot_table",
-          "name": "block4block:entities/helpers/magma_cube_magma_block",
-          "functions": [
-            {
-              "function": "minecraft:set_count",
-              "count": {
-                "min": 0,
-                "max": 3
-              }
-            }
-          ]
-        }
-      ]
     }
   ]
 }
