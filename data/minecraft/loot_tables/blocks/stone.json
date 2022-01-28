@@ -38,7 +38,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:deepslate",
+          "name": "minecraft:cobbled_deepslate",
           "conditions": [
             {
               "condition": "minecraft:survives_explosion"
