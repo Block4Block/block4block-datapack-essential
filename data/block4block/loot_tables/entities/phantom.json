@@ -41,9 +41,13 @@
             {
               "function": "minecraft:set_count",
               "count": {
-                "min": -999,
+                "min": -248,
                 "max": 1
               }
+            },
+            {
+              "function": "set_nbt",
+                "tag": "{display:{Name:'\"Phantom Elytra\"',Lore:['\"An inferior version that can only glide for a second\"']}}"
             }
           ]
         }
