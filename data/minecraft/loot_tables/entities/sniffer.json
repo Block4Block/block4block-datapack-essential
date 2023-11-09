@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/piglin"
+          "name": "mobheads:entities/sniffer"
         }
       ]
     }
