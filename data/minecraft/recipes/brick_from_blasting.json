@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:clay_ball"
+  },
+  "result": "minecraft:brick",
+  "experience": 0.3
+}

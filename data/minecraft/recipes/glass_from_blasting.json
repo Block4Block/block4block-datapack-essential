@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:sand"
+  },
+  "result": "minecraft:glass",
+  "experience": 0.1
+}

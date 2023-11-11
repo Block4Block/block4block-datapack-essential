@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:red_sandstone"
+  },
+  "result": "minecraft:smooth_red_sandstone",
+  "experience": 0.1
+}
