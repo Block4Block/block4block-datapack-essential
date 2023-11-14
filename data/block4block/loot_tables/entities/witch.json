@@ -109,7 +109,7 @@
         },
         {
           "type": "minecraft:item",
-          "name": "minecraft:gunpowder",
+          "name": "minecraft:firework_rocket",
           "functions": [
             {
               "function": "minecraft:set_count",
