@@ -58,6 +58,15 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
+          "name": "block4block:entities/helpers/zombie_charcoal"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
           "name": "block4block:entities/helpers/randomdrop"
         }
       ]
