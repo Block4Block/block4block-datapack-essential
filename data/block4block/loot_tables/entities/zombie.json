@@ -60,6 +60,11 @@
           "type": "minecraft:loot_table",
           "name": "block4block:entities/helpers/zombie_charcoal"
         }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
       ]
     },
     {
