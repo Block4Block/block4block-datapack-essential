@@ -14,6 +14,44 @@
                 "min": 0,
                 "max": 1
               }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks: {Flight: 1b}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks: {Flight: 2b}}"
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:firework_rocket",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 1
+              }
+            },
+            {
+              "function": "set_nbt",
+              "tag": "{Fireworks: {Flight: 3b}}"
             }
           ]
         }
