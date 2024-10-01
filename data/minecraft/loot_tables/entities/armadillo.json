@@ -6,6 +6,15 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
+          "name": "block4block:entities/armadillo"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
           "name": "mobheads:entities/armadillo"
         }
       ]
