@@ -239,7 +239,37 @@
         {
           "type": "minecraft:item",
           "name": "stone_stairs"
-        }
+        },
+        {
+          "type": "minecraft:item",
+          "name":"minecraft:heavy_core"
+        },
+        {"type": "minecraft:item",
+          "name":"minecraft:tuff_stairs"},
+        {"type": "minecraft:item",
+          "name":"minecraft:tuff_slab"},
+        {"type": "minecraft:item",
+          "name":"minecraft:tuff_wall"},
+        {"type": "minecraft:item",
+          "name":"minecraft:chiseled_tuff"},
+        {"type": "minecraft:item",
+          "name":"minecraft:tuff_brick"},
+        {"type": "minecraft:item",
+          "name":"minecraft:tuff_brick_stairs"},
+        {"type": "minecraft:item",
+          "name":"minecraft:tuff_brick_slab"},
+        {"type": "minecraft:item",
+          "name":"minecraft:tuff_brick_wall"},
+        {"type": "minecraft:item",
+          "name":"minecraft:chiseled_tuff_brick"},
+        {"type": "minecraft:item",
+          "name":"minecraft:polished_tuff"},
+        {"type": "minecraft:item",
+          "name":"minecraft:polished_tuff_stairs"},
+        {"type": "minecraft:item",
+          "name":"minecraft:polished_tuff_slab"},
+        {"type": "minecraft:item",
+          "name":"minecraft:polished_tuff_wall"}
       ]
     }
   ]
