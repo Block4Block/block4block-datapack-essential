@@ -13,7 +13,7 @@
           ],
           "children": [
             {
-              "type": "item",
+              "type": "id",
               "name": "minecraft:player_head",
               "functions": [
                 {
