@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/sheep/lime"
+          "value": "vanilla:entities/sheep/lime"
         }
       ]
     },
@@ -15,7 +15,25 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/sheep/lime"
+          "value": "more_mob_heads:entities/sheep/lime"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/sheep/lime",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -98,
+                "max": 1
+              }
+            }
+          ]
         }
       ]
     }

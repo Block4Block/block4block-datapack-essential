@@ -6,7 +6,34 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/skeleton"
+          "value": "vanilla:entities/skeleton"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/stone",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
         }
       ]
     }

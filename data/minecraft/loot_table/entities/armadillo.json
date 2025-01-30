@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/armadillo"
+          "value": "vanilla:entities/armadillo"
         }
       ]
     },
@@ -15,7 +15,16 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/armadillo"
+          "value": "more_mob_heads:entities/armadillo"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
         }
       ]
     }

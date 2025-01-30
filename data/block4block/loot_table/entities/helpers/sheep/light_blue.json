@@ -6,64 +6,61 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "light_blue_banner"
+          "name": "minecraft:light_blue_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_bed"
+          "name": "minecraft:light_blue_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_carpet"
+          "name": "minecraft:light_blue_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_concrete_powder"
+          "name": "minecraft:light_blue_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_concrete"
+          "name": "minecraft:light_blue_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_glazed_terracotta"
+          "name": "minecraft:light_blue_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_shulker_box"
+          "name": "minecraft:light_blue_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_stained_glass"
+          "name": "minecraft:light_blue_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_stained_glass_pane"
+          "name": "minecraft:light_blue_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_terracotta"
+          "name": "minecraft:light_blue_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_wool"
+          "name": "minecraft:light_blue_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "ice"
+          "name": "minecraft:ice"
         },
         {
           "type": "minecraft:item",
-          "name": "packed_ice"
+          "name": "minecraft:packed_ice"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_wait"
+          "name": "minecraft:music_disc_wait"
         }
       ]
     }
   ]
 }
-
-
-        

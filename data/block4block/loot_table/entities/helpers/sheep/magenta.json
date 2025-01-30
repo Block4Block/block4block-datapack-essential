@@ -6,100 +6,97 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "allium"
+          "name": "minecraft:allium"
         },
         {
           "type": "minecraft:item",
-          "name": "bubble_coral"
+          "name": "minecraft:bubble_coral"
         },
         {
           "type": "minecraft:item",
-          "name": "bubble_coral_block"
+          "name": "minecraft:bubble_coral_block"
         },
         {
           "type": "minecraft:item",
-          "name": "bubble_coral_fan"
+          "name": "minecraft:bubble_coral_fan"
         },
         {
           "type": "minecraft:item",
-          "name": "lilac"
+          "name": "minecraft:lilac"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_banner"
+          "name": "minecraft:magenta_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_bed"
+          "name": "minecraft:magenta_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_carpet"
+          "name": "minecraft:magenta_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_concrete_powder"
+          "name": "minecraft:magenta_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_concrete"
+          "name": "minecraft:magenta_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_glazed_terracotta"
+          "name": "minecraft:magenta_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_shulker_box"
+          "name": "minecraft:magenta_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_stained_glass"
+          "name": "minecraft:magenta_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_stained_glass_pane"
+          "name": "minecraft:magenta_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_terracotta"
+          "name": "minecraft:magenta_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "magenta_wool"
+          "name": "minecraft:magenta_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "purpur_block"
+          "name": "minecraft:purpur_block"
         },
         {
           "type": "minecraft:item",
-          "name": "purpur_pillar"
+          "name": "minecraft:purpur_pillar"
         },
         {
           "type": "minecraft:item",
-          "name": "purpur_slab"
+          "name": "minecraft:purpur_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "purpur_stairs"
+          "name": "minecraft:purpur_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "dragon_egg"
+          "name": "minecraft:dragon_egg"
         },
         {
           "type": "minecraft:item",
-          "name": "enchanted_golden_apple"
+          "name": "minecraft:enchanted_golden_apple"
         },
         {
           "type": "minecraft:item",
-          "name": "mojang_banner_pattern"
+          "name": "minecraft:mojang_banner_pattern"
         }
       ]
     }
   ]
 }
-
-
-        

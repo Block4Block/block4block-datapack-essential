@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/cave_spider"
+          "value": "vanilla:entities/cave_spider"
         }
       ]
     },
@@ -15,7 +15,16 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/cave_spider"
+          "value": "more_mob_heads:entities/cave_spider"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
         }
       ]
     }

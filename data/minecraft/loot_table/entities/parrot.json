@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/parrot"
+          "value": "vanilla:entities/parrot"
         }
       ]
     },
@@ -15,7 +15,16 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/parrot"
+          "value": "more_mob_heads:entities/parrot"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
         }
       ]
     }

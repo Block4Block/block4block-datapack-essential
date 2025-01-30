@@ -6,137 +6,133 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "blue_banner"
+          "name": "minecraft:blue_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_bed"
+          "name": "minecraft:blue_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_carpet"
+          "name": "minecraft:blue_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_concrete_powder"
+          "name": "minecraft:blue_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_concrete"
+          "name": "minecraft:blue_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_glazed_terracotta"
+          "name": "minecraft:blue_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_ice"
+          "name": "minecraft:blue_ice"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_orchid"
+          "name": "minecraft:blue_orchid"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_shulker_box"
+          "name": "minecraft:blue_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_stained_glass"
+          "name": "minecraft:blue_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_stained_glass_pane"
+          "name": "minecraft:blue_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_terracotta"
+          "name": "minecraft:blue_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "blue_wool"
+          "name": "minecraft:blue_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "cornflower"
+          "name": "minecraft:cornflower"
         },
         {
           "type": "minecraft:item",
-          "name": "tube_coral"
+          "name": "minecraft:tube_coral"
         },
         {
           "type": "minecraft:item",
-          "name": "tube_coral_block"
+          "name": "minecraft:tube_coral_block"
         },
         {
           "type": "minecraft:item",
-          "name": "tube_coral_fan"
+          "name": "minecraft:tube_coral_fan"
         },
         {
           "type": "minecraft:item",
-          "name": "lapis_block"
+          "name": "minecraft:lapis_block"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_banner"
+          "name": "minecraft:light_blue_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_bed"
+          "name": "minecraft:light_blue_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_carpet"
+          "name": "minecraft:light_blue_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_concrete_powder"
+          "name": "minecraft:light_blue_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_concrete"
+          "name": "minecraft:light_blue_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_glazed_terracotta"
+          "name": "minecraft:light_blue_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_shulker_box"
+          "name": "minecraft:light_blue_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_stained_glass"
+          "name": "minecraft:light_blue_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_stained_glass_pane"
+          "name": "minecraft:light_blue_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_terracotta"
+          "name": "minecraft:light_blue_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "light_blue_wool"
+          "name": "minecraft:light_blue_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "ice"
+          "name": "minecraft:ice"
         },
         {
           "type": "minecraft:item",
-          "name": "packed_ice"
+          "name": "minecraft:packed_ice"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_mall"
+          "name": "minecraft:music_disc_mall"
         }
       ]
     }
   ]
 }
-
-
-
-        

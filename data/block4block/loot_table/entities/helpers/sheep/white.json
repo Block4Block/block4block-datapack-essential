@@ -6,247 +6,247 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "white_banner"
+          "name": "minecraft:white_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "white_bed"
+          "name": "minecraft:white_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "white_carpet"
+          "name": "minecraft:white_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "white_concrete_powder"
+          "name": "minecraft:white_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "white_concrete"
+          "name": "minecraft:white_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "white_glazed_terracotta"
+          "name": "minecraft:white_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "white_shulker_box"
+          "name": "minecraft:white_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "white_stained_glass"
+          "name": "minecraft:white_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "white_stained_glass_pane"
+          "name": "minecraft:white_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "white_terracotta"
+          "name": "minecraft:white_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "white_tulip"
+          "name": "minecraft:white_tulip"
         },
         {
           "type": "minecraft:item",
-          "name": "white_wool"
+          "name": "minecraft:white_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "chiseled_quartz_block"
+          "name": "minecraft:chiseled_quartz_block"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_quartz"
+          "name": "minecraft:smooth_quartz"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_quartz_slab"
+          "name": "minecraft:smooth_quartz_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_quartz_stairs"
+          "name": "minecraft:smooth_quartz_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "quartz_block"
+          "name": "minecraft:quartz_block"
         },
         {
           "type": "minecraft:item",
-          "name": "quartz_bricks"
+          "name": "minecraft:quartz_bricks"
         },
         {
           "type": "minecraft:item",
-          "name": "quartz_pillar"
+          "name": "minecraft:quartz_pillar"
         },
         {
           "type": "minecraft:item",
-          "name": "quartz_slab"
+          "name": "minecraft:quartz_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "quartz_stairs"
+          "name": "minecraft:quartz_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "bone_block"
+          "name": "minecraft:bone_block"
         },
         {
           "type": "minecraft:item",
-          "name": "diorite"
+          "name": "minecraft:diorite"
         },
         {
           "type": "minecraft:item",
-          "name": "diorite_slab"
+          "name": "minecraft:diorite_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "diorite_stairs"
+          "name": "minecraft:diorite_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "diorite_wall"
+          "name": "minecraft:diorite_wall"
         },
         {
           "type": "minecraft:item",
-          "name": "snow_block"
+          "name": "minecraft:snow_block"
         },
         {
           "type": "minecraft:item",
-          "name": "snow"
+          "name": "minecraft:snow"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_button"
+          "name": "minecraft:birch_button"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_door"
+          "name": "minecraft:birch_door"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_fence_gate"
+          "name": "minecraft:birch_fence_gate"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_fence"
+          "name": "minecraft:birch_fence"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_leaves"
+          "name": "minecraft:birch_leaves"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_log"
+          "name": "minecraft:birch_log"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_planks"
+          "name": "minecraft:birch_planks"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_pressure_plate"
+          "name": "minecraft:birch_pressure_plate"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_sapling"
+          "name": "minecraft:birch_sapling"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_sign"
+          "name": "minecraft:birch_sign"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_slab"
+          "name": "minecraft:birch_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_stairs"
+          "name": "minecraft:birch_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_trapdoor"
+          "name": "minecraft:birch_trapdoor"
         },
         {
           "type": "minecraft:item",
-          "name": "birch_wood"
+          "name": "minecraft:birch_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_birch_log"
+          "name": "minecraft:stripped_birch_log"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_birch_wood"
+          "name": "minecraft:stripped_birch_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "cobweb"
+          "name": "minecraft:cobweb"
         },
         {
           "type": "minecraft:item",
-          "name": "turtle_egg"
+          "name": "minecraft:turtle_egg"
         },
         {
           "type": "minecraft:item",
-          "name": "end_stone"
+          "name": "minecraft:end_stone"
         },
         {
           "type": "minecraft:item",
-          "name": "end_stone_brick_slab"
+          "name": "minecraft:end_stone_brick_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "end_stone_brick_stairs"
+          "name": "minecraft:end_stone_brick_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "end_stone_brick_wall"
+          "name": "minecraft:end_stone_brick_wall"
         },
         {
           "type": "minecraft:item",
-          "name": "end_stone_bricks"
+          "name": "minecraft:end_stone_bricks"
         },
         {
           "type": "minecraft:item",
-          "name": "end_rod"
+          "name": "minecraft:end_rod"
         },
         {
           "type": "minecraft:item",
-          "name": "mushroom_stem"
+          "name": "minecraft:mushroom_stem"
         },
         {
           "type": "minecraft:item",
-          "name": "lily_of_the_valley"
+          "name": "minecraft:lily_of_the_valley"
         },
         {
           "type": "minecraft:item",
-          "name": "polished_diorite"
+          "name": "minecraft:polished_diorite"
         },
         {
           "type": "minecraft:item",
-          "name": "polished_diorite_slab"
+          "name": "minecraft:polished_diorite_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "polished_diorite_stairs"
+          "name": "minecraft:polished_diorite_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "flower_banner_pattern"
+          "name": "minecraft:flower_banner_pattern"
         },
         {
           "type": "minecraft:item",
-          "name": "globe_banner_pattern"
+          "name": "minecraft:globe_banner_pattern"
         },
         {
           "type": "minecraft:item",
-          "name": "piglin_banner_pattern"
+          "name": "minecraft:piglin_banner_pattern"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_strad"
+          "name": "minecraft:music_disc_strad"
         }
       ]
     }

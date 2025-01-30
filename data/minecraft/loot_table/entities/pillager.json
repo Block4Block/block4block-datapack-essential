@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/pillager"
+          "value": "vanilla:entities/pillager"
         }
       ]
     },
@@ -15,7 +15,34 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/pillager"
+          "value": "more_mob_heads:entities/pillager"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/clay",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 5
+              }
+            }
+          ]
         }
       ]
     }

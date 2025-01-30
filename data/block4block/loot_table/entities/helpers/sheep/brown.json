@@ -6,335 +6,335 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "ancient_debris"
+          "name": "minecraft:ancient_debris"
         },
         {
           "type": "minecraft:item",
-          "name": "barrel"
+          "name": "minecraft:barrel"
         },
         {
           "type": "minecraft:item",
-          "name": "beehive"
+          "name": "minecraft:beehive"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_banner"
+          "name": "minecraft:brown_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_bed"
+          "name": "minecraft:brown_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_carpet"
+          "name": "minecraft:brown_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_concrete_powder"
+          "name": "minecraft:brown_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_concrete"
+          "name": "minecraft:brown_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_glazed_terracotta"
+          "name": "minecraft:brown_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_mushroom_block"
+          "name": "minecraft:brown_mushroom_block"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_mushroom"
+          "name": "minecraft:brown_mushroom"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_shulker_box"
+          "name": "minecraft:brown_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_stained_glass"
+          "name": "minecraft:brown_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_stained_glass_pane"
+          "name": "minecraft:brown_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_terracotta"
+          "name": "minecraft:brown_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "brown_wool"
+          "name": "minecraft:brown_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "campfire"
+          "name": "minecraft:campfire"
         },
         {
           "type": "minecraft:item",
-          "name": "cartography_table"
+          "name": "minecraft:cartography_table"
         },
         {
           "type": "minecraft:item",
-          "name": "chest"
+          "name": "minecraft:chest"
         },
         {
           "type": "minecraft:item",
-          "name": "dirt"
+          "name": "minecraft:dirt"
         },
         {
           "type": "minecraft:item",
-          "name": "coarse_dirt"
+          "name": "minecraft:coarse_dirt"
         },
         {
           "type": "minecraft:item",
-          "name": "composter"
+          "name": "minecraft:composter"
         },
         {
           "type": "minecraft:item",
-          "name": "crafting_table"
+          "name": "minecraft:crafting_table"
         },
         {
           "type": "minecraft:item",
-          "name": "farmland"
+          "name": "minecraft:farmland"
         },
         {
           "type": "minecraft:item",
-          "name": "flower_pot"
+          "name": "minecraft:flower_pot"
         },
         {
           "type": "minecraft:item",
-          "name": "grass_block"
+          "name": "minecraft:grass_block"
         },
         {
           "type": "minecraft:item",
-          "name": "dirt_path"
+          "name": "minecraft:dirt_path"
         },
         {
           "type": "minecraft:item",
-          "name": "jukebox"
+          "name": "minecraft:jukebox"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_button"
+          "name": "minecraft:jungle_button"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_door"
+          "name": "minecraft:jungle_door"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_fence_gate"
+          "name": "minecraft:jungle_fence_gate"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_fence"
+          "name": "minecraft:jungle_fence"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_leaves"
+          "name": "minecraft:jungle_leaves"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_log"
+          "name": "minecraft:jungle_log"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_planks"
+          "name": "minecraft:jungle_planks"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_pressure_plate"
+          "name": "minecraft:jungle_pressure_plate"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_sapling"
+          "name": "minecraft:jungle_sapling"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_sign"
+          "name": "minecraft:jungle_sign"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_slab"
+          "name": "minecraft:jungle_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_stairs"
+          "name": "minecraft:jungle_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_trapdoor"
+          "name": "minecraft:jungle_trapdoor"
         },
         {
           "type": "minecraft:item",
-          "name": "jungle_wood"
+          "name": "minecraft:jungle_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "ladder"
+          "name": "minecraft:ladder"
         },
         {
           "type": "minecraft:item",
-          "name": "lectern"
+          "name": "minecraft:lectern"
         },
         {
           "type": "minecraft:item",
-          "name": "note_block"
+          "name": "minecraft:note_block"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_button"
+          "name": "minecraft:oak_button"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_door"
+          "name": "minecraft:oak_door"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_fence_gate"
+          "name": "minecraft:oak_fence_gate"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_fence"
+          "name": "minecraft:oak_fence"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_leaves"
+          "name": "minecraft:oak_leaves"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_log"
+          "name": "minecraft:oak_log"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_planks"
+          "name": "minecraft:oak_planks"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_pressure_plate"
+          "name": "minecraft:oak_pressure_plate"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_sapling"
+          "name": "minecraft:oak_sapling"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_sign"
+          "name": "minecraft:oak_sign"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_slab"
+          "name": "minecraft:oak_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_stairs"
+          "name": "minecraft:oak_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_trapdoor"
+          "name": "minecraft:oak_trapdoor"
         },
         {
           "type": "minecraft:item",
-          "name": "oak_wood"
+          "name": "minecraft:oak_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "podzol"
+          "name": "minecraft:podzol"
         },
         {
           "type": "minecraft:item",
-          "name": "soul_sand"
+          "name": "minecraft:soul_sand"
         },
         {
           "type": "minecraft:item",
-          "name": "soul_soil"
+          "name": "minecraft:soul_soil"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_button"
+          "name": "minecraft:spruce_button"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_door"
+          "name": "minecraft:spruce_door"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_fence_gate"
+          "name": "minecraft:spruce_fence_gate"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_fence"
+          "name": "minecraft:spruce_fence"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_leaves"
+          "name": "minecraft:spruce_leaves"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_log"
+          "name": "minecraft:spruce_log"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_planks"
+          "name": "minecraft:spruce_planks"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_pressure_plate"
+          "name": "minecraft:spruce_pressure_plate"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_sapling"
+          "name": "minecraft:spruce_sapling"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_sign"
+          "name": "minecraft:spruce_sign"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_slab"
+          "name": "minecraft:spruce_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_stairs"
+          "name": "minecraft:spruce_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_trapdoor"
+          "name": "minecraft:spruce_trapdoor"
         },
         {
           "type": "minecraft:item",
-          "name": "spruce_wood"
+          "name": "minecraft:spruce_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_jungle_log"
+          "name": "minecraft:stripped_jungle_log"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_jungle_wood"
+          "name": "minecraft:stripped_jungle_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_oak_log"
+          "name": "minecraft:stripped_oak_log"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_oak_wood"
+          "name": "minecraft:stripped_oak_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_spruce_log"
+          "name": "minecraft:stripped_spruce_log"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_spruce_wood"
+          "name": "minecraft:stripped_spruce_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "trapped_chest"
+          "name": "minecraft:trapped_chest"
         },
         {
           "type": "minecraft:item",

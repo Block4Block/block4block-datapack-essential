@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/turtle"
+          "value": "vanilla:entities/turtle"
         }
       ]
     },
@@ -15,7 +15,16 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/turtle"
+          "value": "more_mob_heads:entities/turtle"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
         }
       ]
     }

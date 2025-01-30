@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/sheep/magenta"
+          "value": "vanilla:entities/sheep/magenta"
         }
       ]
     },
@@ -15,7 +15,25 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/sheep/magenta"
+          "value": "more_mob_heads:entities/sheep/magenta"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/sheep/magenta",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -98,
+                "max": 1
+              }
+            }
+          ]
         }
       ]
     }

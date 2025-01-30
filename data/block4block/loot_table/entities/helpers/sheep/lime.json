@@ -6,79 +6,79 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "emerald_block"
+          "name": "minecraft:emerald_block"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_banner"
+          "name": "minecraft:lime_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_bed"
+          "name": "minecraft:lime_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_carpet"
+          "name": "minecraft:lime_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_concrete_powder"
+          "name": "minecraft:lime_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_concrete"
+          "name": "minecraft:lime_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_glazed_terracotta"
+          "name": "minecraft:lime_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_shulker_box"
+          "name": "minecraft:lime_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_stained_glass"
+          "name": "minecraft:lime_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_stained_glass_pane"
+          "name": "minecraft:lime_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_terracotta"
+          "name": "minecraft:lime_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "lime_wool"
+          "name": "minecraft:lime_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "melon"
+          "name": "minecraft:melon"
         },
         {
           "type": "minecraft:item",
-          "name": "sea_pickle"
+          "name": "minecraft:sea_pickle"
         },
         {
           "type": "minecraft:item",
-          "name": "seagrass"
+          "name": "minecraft:seagrass"
         },
         {
           "type": "minecraft:item",
-          "name": "slime_block"
+          "name": "minecraft:slime_block"
         },
         {
           "type": "minecraft:item",
-          "name": "sugar_cane"
+          "name": "minecraft:sugar_cane"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_cat"
+          "name": "minecraft:music_disc_cat"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_far"
+          "name": "minecraft:music_disc_far"
         }
       ]
     }

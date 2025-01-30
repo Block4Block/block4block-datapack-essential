@@ -1,12 +1,11 @@
 {
-  "type": "minecraft:entity",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/husk"
+          "value": "vanilla:entities/husk"
         }
       ]
     },
@@ -15,7 +14,16 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/husk"
+          "value": "more_mob_heads:entities/husk"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
         }
       ]
     }

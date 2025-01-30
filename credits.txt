@@ -1,3 +1,6 @@
-More Mob Heads 
 Credits:
+More Mob Heads:
 Vanilla Tweaks: https://vanillatweaks.net/
+
+Blasting Plus:
+https://modrinth.com/datapack/blasting-plus - Licensed GPL-3.0-only

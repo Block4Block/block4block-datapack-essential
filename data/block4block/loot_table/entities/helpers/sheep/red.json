@@ -6,188 +6,185 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "redstone_block"
+          "name": "minecraft:redstone_block"
         },
         {
           "type": "minecraft:item",
-          "name": "redstone_lamp"
+          "name": "minecraft:redstone_lamp"
         },
         {
           "type": "minecraft:item",
-          "name": "redstone_torch"
+          "name": "minecraft:redstone_torch"
         },
         {
           "type": "minecraft:item",
-          "name": "red_banner"
+          "name": "minecraft:red_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "red_bed"
+          "name": "minecraft:red_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "red_carpet"
+          "name": "minecraft:red_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "red_concrete_powder"
+          "name": "minecraft:red_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "red_concrete"
+          "name": "minecraft:red_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "red_glazed_terracotta"
+          "name": "minecraft:red_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "red_mushroom_block"
+          "name": "minecraft:red_mushroom_block"
         },
         {
           "type": "minecraft:item",
-          "name": "red_mushroom"
+          "name": "minecraft:red_mushroom"
         },
         {
           "type": "minecraft:item",
-          "name": "red_nether_brick_slab"
+          "name": "minecraft:red_nether_brick_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "red_nether_brick_stairs"
+          "name": "minecraft:red_nether_brick_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "red_nether_brick_wall"
+          "name": "minecraft:red_nether_brick_wall"
         },
         {
           "type": "minecraft:item",
-          "name": "red_nether_bricks"
+          "name": "minecraft:red_nether_bricks"
         },
         {
           "type": "minecraft:item",
-          "name": "red_shulker_box"
+          "name": "minecraft:red_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "red_stained_glass"
+          "name": "minecraft:red_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "red_stained_glass_pane"
+          "name": "minecraft:red_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "red_terracotta"
+          "name": "minecraft:red_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "red_tulip"
+          "name": "minecraft:red_tulip"
         },
         {
           "type": "minecraft:item",
-          "name": "red_wool"
+          "name": "minecraft:red_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "brick_slab"
+          "name": "minecraft:brick_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "brick_stairs"
+          "name": "minecraft:brick_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "brick_wall"
+          "name": "minecraft:brick_wall"
         },
         {
           "type": "minecraft:item",
-          "name": "bricks"
+          "name": "minecraft:bricks"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_wart_block"
+          "name": "minecraft:nether_wart_block"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_wart"
+          "name": "minecraft:nether_wart"
         },
         {
           "type": "minecraft:item",
-          "name": "weeping_vines"
+          "name": "minecraft:weeping_vines"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_gold_ore"
+          "name": "minecraft:nether_gold_ore"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_quartz_ore"
+          "name": "minecraft:nether_quartz_ore"
         },
         {
           "type": "minecraft:item",
-          "name": "fire_coral"
+          "name": "minecraft:fire_coral"
         },
         {
           "type": "minecraft:item",
-          "name": "fire_coral_block"
+          "name": "minecraft:fire_coral_block"
         },
         {
           "type": "minecraft:item",
-          "name": "fire_coral_fan"
+          "name": "minecraft:fire_coral_fan"
         },
         {
           "type": "minecraft:item",
-          "name": "granite"
+          "name": "minecraft:granite"
         },
         {
           "type": "minecraft:item",
-          "name": "granite_slab"
+          "name": "minecraft:granite_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "granite_stairs"
+          "name": "minecraft:granite_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "granite_wall"
+          "name": "minecraft:granite_wall"
         },
         {
           "type": "minecraft:item",
-          "name": "polished_granite"
+          "name": "minecraft:polished_granite"
         },
         {
           "type": "minecraft:item",
-          "name": "polished_granite_slab"
+          "name": "minecraft:polished_granite_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "polished_granite_stairs"
+          "name": "minecraft:polished_granite_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "poppy"
+          "name": "minecraft:poppy"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_fungus"
+          "name": "minecraft:crimson_fungus"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_roots"
+          "name": "minecraft:crimson_roots"
         },
         {
           "type": "minecraft:item",
-          "name": "rose_bush"
+          "name": "minecraft:rose_bush"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_chirp"
+          "name": "minecraft:music_disc_chirp"
         }
       ]
     }
   ]
 }
-
-
-        

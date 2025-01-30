@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/mooshroom"
+          "value": "vanilla:entities/mooshroom"
         }
       ]
     },
@@ -15,7 +15,34 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/mooshroom"
+          "value": "more_mob_heads:entities/mooshroom"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/mushroom",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 10
+              }
+            }
+          ]
         }
       ]
     }

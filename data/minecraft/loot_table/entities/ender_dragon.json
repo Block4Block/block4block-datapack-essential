@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/ender_dragon"
+          "value": "vanilla:entities/ender_dragon"
         }
       ]
     },
@@ -15,7 +15,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/ender_dragon"
+          "value": "block4block:entities/helpers/random_drop"
         }
       ]
     }

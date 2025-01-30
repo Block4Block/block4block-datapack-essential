@@ -6,192 +6,189 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "chiseled_red_sandstone"
+          "name": "minecraft:chiseled_red_sandstone"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_red_sandstone"
+          "name": "minecraft:smooth_red_sandstone"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_red_sandstone_slab"
+          "name": "minecraft:smooth_red_sandstone_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_red_sandstone_stairs"
+          "name": "minecraft:smooth_red_sandstone_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "cut_red_sandstone"
+          "name": "minecraft:cut_red_sandstone"
         },
         {
           "type": "minecraft:item",
-          "name": "cut_red_sandstone_slab"
+          "name": "minecraft:cut_red_sandstone_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "red_sand"
+          "name": "minecraft:red_sand"
         },
         {
           "type": "minecraft:item",
-          "name": "red_sandstone"
+          "name": "minecraft:red_sandstone"
         },
         {
           "type": "minecraft:item",
-          "name": "red_sandstone_slab"
+          "name": "minecraft:red_sandstone_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "red_sandstone_stairs"
+          "name": "minecraft:red_sandstone_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "red_sandstone_wall"
+          "name": "minecraft:red_sandstone_wall"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_button"
+          "name": "minecraft:acacia_button"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_door"
+          "name": "minecraft:acacia_door"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_fence_gate"
+          "name": "minecraft:acacia_fence_gate"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_fence"
+          "name": "minecraft:acacia_fence"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_leaves"
+          "name": "minecraft:acacia_leaves"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_log"
+          "name": "minecraft:acacia_log"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_planks"
+          "name": "minecraft:acacia_planks"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_pressure_plate"
+          "name": "minecraft:acacia_pressure_plate"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_sapling"
+          "name": "minecraft:acacia_sapling"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_sign"
+          "name": "minecraft:acacia_sign"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_slab"
+          "name": "minecraft:acacia_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_stairs"
+          "name": "minecraft:acacia_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "acacia_trapdoor"
+          "name": "minecraft:acacia_trapdoor"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_acacia_log"
+          "name": "minecraft:stripped_acacia_log"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_acacia_wood"
+          "name": "minecraft:stripped_acacia_wood"
         },
         {
           "type": "minecraft:item",
-          "name": "carved_pumpkin"
+          "name": "minecraft:carved_pumpkin"
         },
         {
           "type": "minecraft:item",
-          "name": "jack_o_lantern"
+          "name": "minecraft:jack_o_lantern"
         },
         {
           "type": "minecraft:item",
-          "name": "honey_block"
+          "name": "minecraft:honey_block"
         },
         {
           "type": "minecraft:item",
-          "name": "honeycomb_block"
+          "name": "minecraft:honeycomb_block"
         },
         {
           "type": "minecraft:item",
-          "name": "magma_block"
+          "name": "minecraft:magma_block"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_banner"
+          "name": "minecraft:orange_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_bed"
+          "name": "minecraft:orange_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_carpet"
+          "name": "minecraft:orange_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_concrete_powder"
+          "name": "minecraft:orange_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_concrete"
+          "name": "minecraft:orange_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_glazed_terracotta"
+          "name": "minecraft:orange_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_shulker_box"
+          "name": "minecraft:orange_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_stained_glass"
+          "name": "minecraft:orange_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_stained_glass_pane"
+          "name": "minecraft:orange_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_terracotta"
+          "name": "minecraft:orange_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_tulip"
+          "name": "minecraft:orange_tulip"
         },
         {
           "type": "minecraft:item",
-          "name": "orange_wool"
+          "name": "minecraft:orange_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "pumpkin"
+          "name": "minecraft:pumpkin"
         },
         {
           "type": "minecraft:item",
-          "name": "shroomlight"
+          "name": "minecraft:shroomlight"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_blocks"
+          "name": "minecraft:music_disc_blocks"
         }
       ]
     }
   ]
 }
-
-
-        

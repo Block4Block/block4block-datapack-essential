@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/sheep/green"
+          "value": "vanilla:entities/sheep/green"
         }
       ]
     },
@@ -15,7 +15,25 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/sheep/green"
+          "value": "more_mob_heads:entities/sheep/green"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/sheep/green",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": -98,
+                "max": 1
+              }
+            }
+          ]
         }
       ]
     }

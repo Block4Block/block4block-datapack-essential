@@ -1,0 +1,62 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "crimson_stem"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "crimson_hyphae"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "nether_wart_block"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "crimson_fungus"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "warped_stem"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "warped_hyphae"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "warped_wart_block"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "brown_mushroom_block"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "red_mushroom_block"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "mushroom_stem"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "brown_mushroom"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "red_mushroom"
+                },
+                {
+                    "type": "minecraft:item",
+                    "name": "mycelium"
+                }
+            ],
+            "rolls": 1
+        }
+    ]
+}

@@ -1,12 +1,22 @@
 {
-  "type": "minecraft:entity",
   "pools": [
     {
       "rolls": 1,
       "entries": [
         {
-          "type": "minecraft:loot_table",
-          "name": "block4block:entities/villager"
+          "type": "loot_table",
+          "value": "vanilla:entities/villager",
+          "weight": 1
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "loot_table",
+          "value": "more_mob_heads:entities/villager",
+          "weight": 1
         }
       ]
     },
@@ -15,7 +25,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/villager"
+          "value": "block4block:entities/helpers/random_drop"
         }
       ]
     }

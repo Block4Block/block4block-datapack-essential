@@ -6,95 +6,95 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "bamboo"
+          "name": "minecraft:bamboo"
         },
         {
           "type": "minecraft:item",
-          "name": "cactus"
+          "name": "minecraft:cactus"
         },
         {
           "type": "minecraft:item",
-          "name": "vine"
+          "name": "minecraft:vine"
         },
         {
           "type": "minecraft:item",
-          "name": "dried_kelp_block"
+          "name": "minecraft:dried_kelp_block"
         },
         {
           "type": "minecraft:item",
-          "name": "fern"
+          "name": "minecraft:fern"
         },
         {
           "type": "minecraft:item",
-          "name": "grass"
+          "name": "minecraft:short_grass"
         },
         {
           "type": "minecraft:item",
-          "name": "green_banner"
+          "name": "minecraft:green_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "green_bed"
+          "name": "minecraft:green_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "green_carpet"
+          "name": "minecraft:green_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "green_concrete_powder"
+          "name": "minecraft:green_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "green_concrete"
+          "name": "minecraft:green_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "green_glazed_terracotta"
+          "name": "minecraft:green_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "green_shulker_box"
+          "name": "minecraft:green_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "green_stained_glass"
+          "name": "minecraft:green_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "green_stained_glass_pane"
+          "name": "minecraft:green_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "green_terracotta"
+          "name": "minecraft:green_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "green_wool"
+          "name": "minecraft:green_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "kelp"
+          "name": "minecraft:kelp"
         },
         {
           "type": "minecraft:item",
-          "name": "large_fern"
+          "name": "minecraft:large_fern"
         },
         {
           "type": "minecraft:item",
-          "name": "lily_pad"
+          "name": "minecraft:lily_pad"
         },
         {
           "type": "minecraft:item",
-          "name": "tall_grass"
+          "name": "minecraft:tall_grass"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_cat"
+          "name": "minecraft:music_disc_cat"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_ward"
+          "name": "minecraft:music_disc_ward"
         }
       ]
     }

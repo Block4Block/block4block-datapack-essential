@@ -6,7 +6,7 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "block4block:entities/ravager"
+          "value": "vanilla:entities/ravager"
         }
       ]
     },
@@ -15,7 +15,34 @@
       "entries": [
         {
           "type": "minecraft:loot_table",
-          "name": "mobheads:entities/ravager"
+          "value": "more_mob_heads:entities/ravager"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/random_drop"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/clay",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 0,
+                "max": 15
+              }
+            }
+          ]
         }
       ]
     }

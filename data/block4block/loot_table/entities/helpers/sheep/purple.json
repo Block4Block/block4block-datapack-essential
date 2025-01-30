@@ -6,159 +6,159 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "crimson_button"
+          "name": "minecraft:crimson_button"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_door"
+          "name": "minecraft:crimson_door"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_fence_gate"
+          "name": "minecraft:crimson_fence_gate"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_fence"
+          "name": "minecraft:crimson_fence"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_hyphae"
+          "name": "minecraft:crimson_hyphae"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_planks"
+          "name": "minecraft:crimson_planks"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_pressure_plate"
+          "name": "minecraft:crimson_pressure_plate"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_sign"
+          "name": "minecraft:crimson_sign"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_slab"
+          "name": "minecraft:crimson_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_stairs"
+          "name": "minecraft:crimson_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_stem"
+          "name": "minecraft:crimson_stem"
         },
         {
           "type": "minecraft:item",
-          "name": "crimson_trapdoor"
+          "name": "minecraft:crimson_trapdoor"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_crimson_hyphae"
+          "name": "minecraft:stripped_crimson_hyphae"
         },
         {
           "type": "minecraft:item",
-          "name": "stripped_crimson_stem"
+          "name": "minecraft:stripped_crimson_stem"
         },
         {
           "type": "minecraft:item",
-          "name": "warped_hyphae"
+          "name": "minecraft:warped_hyphae"
         },
         {
           "type": "minecraft:item",
-          "name": "chiseled_nether_bricks"
+          "name": "minecraft:chiseled_nether_bricks"
         },
         {
           "type": "minecraft:item",
-          "name": "cracked_nether_bricks"
+          "name": "minecraft:cracked_nether_bricks"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_brick_fence"
+          "name": "minecraft:nether_brick_fence"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_brick_slab"
+          "name": "minecraft:nether_brick_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_brick_stairs"
+          "name": "minecraft:nether_brick_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_brick_wall"
+          "name": "minecraft:nether_brick_wall"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_bricks"
+          "name": "minecraft:nether_bricks"
         },
         {
           "type": "minecraft:item",
-          "name": "chorus_flower"
+          "name": "minecraft:chorus_flower"
         },
         {
           "type": "minecraft:item",
-          "name": "chorus_plant"
+          "name": "minecraft:chorus_plant"
         },
         {
           "type": "minecraft:item",
-          "name": "crying_obsidian"
+          "name": "minecraft:crying_obsidian"
         },
         {
           "type": "minecraft:item",
-          "name": "mycelium"
+          "name": "minecraft:mycelium"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_banner"
+          "name": "minecraft:purple_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_bed"
+          "name": "minecraft:purple_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_carpet"
+          "name": "minecraft:purple_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_concrete_powder"
+          "name": "minecraft:purple_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_concrete"
+          "name": "minecraft:purple_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_glazed_terracotta"
+          "name": "minecraft:purple_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_shulker_box"
+          "name": "minecraft:purple_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_stained_glass"
+          "name": "minecraft:purple_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_stained_glass_pane"
+          "name": "minecraft:purple_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_terracotta"
+          "name": "minecraft:purple_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "purple_wool"
+          "name": "minecraft:purple_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "respawn_anchor"
+          "name": "minecraft:respawn_anchor"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_mellohi"
+          "name": "minecraft:music_disc_mellohi"
         }
       ]
     }

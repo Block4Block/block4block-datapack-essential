@@ -6,191 +6,189 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "yellow_banner"
+          "name": "minecraft:yellow_banner"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_bed"
+          "name": "minecraft:yellow_bed"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_carpet"
+          "name": "minecraft:yellow_carpet"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_concrete_powder"
+          "name": "minecraft:yellow_concrete_powder"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_concrete"
+          "name": "minecraft:yellow_concrete"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_glazed_terracotta"
+          "name": "minecraft:yellow_glazed_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_shulker_box"
+          "name": "minecraft:yellow_shulker_box"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_stained_glass"
+          "name": "minecraft:yellow_stained_glass"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_stained_glass_pane"
+          "name": "minecraft:yellow_stained_glass_pane"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_terracotta"
+          "name": "minecraft:yellow_terracotta"
         },
         {
           "type": "minecraft:item",
-          "name": "yellow_wool"
+          "name": "minecraft:yellow_wool"
         },
         {
           "type": "minecraft:item",
-          "name": "gold_block"
+          "name": "minecraft:gold_block"
         },
         {
           "type": "minecraft:item",
-          "name": "hay_block"
+          "name": "minecraft:hay_block"
         },
         {
           "type": "minecraft:item",
-          "name": "wet_sponge"
+          "name": "minecraft:wet_sponge"
         },
         {
           "type": "minecraft:item",
-          "name": "sponge"
+          "name": "minecraft:sponge"
         },
         {
           "type": "minecraft:item",
-          "name": "light_weighted_pressure_plate"
+          "name": "minecraft:light_weighted_pressure_plate"
         },
         {
           "type": "minecraft:item",
-          "name": "bee_nest"
+          "name": "minecraft:bee_nest"
         },
         {
           "type": "minecraft:item",
-          "name": "bell"
+          "name": "minecraft:bell"
         },
         {
           "type": "minecraft:item",
-          "name": "sand"
+          "name": "minecraft:sand"
         },
         {
           "type": "minecraft:item",
-          "name": "sandstone"
+          "name": "minecraft:sandstone"
         },
         {
           "type": "minecraft:item",
-          "name": "sandstone_slab"
+          "name": "minecraft:sandstone_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "sandstone_stairs"
+          "name": "minecraft:sandstone_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "sandstone_wall"
+          "name": "minecraft:sandstone_wall"
         },
         {
           "type": "minecraft:item",
-          "name": "chiseled_sandstone"
+          "name": "minecraft:chiseled_sandstone"
         },
         {
           "type": "minecraft:item",
-          "name": "cut_sandstone"
+          "name": "minecraft:cut_sandstone"
         },
         {
           "type": "minecraft:item",
-          "name": "cut_sandstone_slab"
+          "name": "minecraft:cut_sandstone_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_sandstone"
+          "name": "minecraft:smooth_sandstone"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_sandstone_slab"
+          "name": "minecraft:smooth_sandstone_slab"
         },
         {
           "type": "minecraft:item",
-          "name": "smooth_sandstone_stairs"
+          "name": "minecraft:smooth_sandstone_stairs"
         },
         {
           "type": "minecraft:item",
-          "name": "dandelion"
+          "name": "minecraft:dandelion"
         },
         {
           "type": "minecraft:item",
-          "name": "glowstone"
+          "name": "minecraft:glowstone"
         },
         {
           "type": "minecraft:item",
-          "name": "horn_coral"
+          "name": "minecraft:horn_coral"
         },
         {
           "type": "minecraft:item",
-          "name": "horn_coral_block"
+          "name": "minecraft:horn_coral_block"
         },
         {
           "type": "minecraft:item",
-          "name": "horn_coral_fan"
+          "name": "minecraft:horn_coral_fan"
         },
         {
           "type": "minecraft:item",
-          "name": "scaffolding"
+          "name": "minecraft:scaffolding"
         },
         {
           "type": "minecraft:item",
-          "name": "sunflower"
+          "name": "minecraft:sunflower"
         },
         {
           "type": "minecraft:item",
-          "name": "totem_of_undying"
+          "name": "minecraft:totem_of_undying"
         },
         {
           "type": "minecraft:item",
-          "name": "nether_star"
+          "name": "minecraft:nether_star"
         },
         {
           "type": "minecraft:item",
-          "name": "heart_of_the_sea"
+          "name": "minecraft:heart_of_the_sea"
         },
         {
           "type": "minecraft:item",
-          "name": "elytra"
+          "name": "minecraft:elytra"
         },
         {
           "type": "minecraft:item",
-          "name": "dragon_breath"
+          "name": "minecraft:dragon_breath"
         },
         {
           "type": "minecraft:item",
-          "name": "experience_bottle"
+          "name": "minecraft:experience_bottle"
         },
         {
           "type": "minecraft:item",
-          "name": "creeper_banner_pattern"
+          "name": "minecraft:creeper_banner_pattern"
         },
         {
           "type": "minecraft:item",
-          "name": "skull_banner_pattern"
+          "name": "minecraft:skull_banner_pattern"
         },
         {
           "type": "minecraft:item",
-          "name": "enchanted_book"
+          "name": "minecraft:enchanted_book"
         },
         {
           "type": "minecraft:item",
-          "name": "music_disc_13"
+          "name": "minecraft:music_disc_13"
         }
       ]
     }
   ]
 }
-
-        
