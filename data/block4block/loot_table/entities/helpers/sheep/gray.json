@@ -245,7 +245,21 @@
         {"type": "minecraft:item",
           "name":"minecraft:polished_tuff_slab"},
         {"type": "minecraft:item",
-          "name":"minecraft:polished_tuff_wall"}
+          "name":"minecraft:polished_tuff_wall"},
+        {"type": "minecraft:item",
+          "name":"minecraft:chiseled_stone_bricks"},
+        {"type": "minecraft:item",
+          "name":"minecraft:infested_stone_bricks"},
+        {"type": "minecraft:item",
+          "name":"minecraft:infested_stone"},
+        {"type": "minecraft:item",
+          "name":"minecraft:infested_mossy_stone_bricks"},
+        {"type": "minecraft:item",
+          "name":"minecraft:infested_cracked_stone_bricks"},
+        {"type": "minecraft:item",
+          "name":"minecraft:infested_cobblestone"},
+        {"type": "minecraft:item",
+          "name":"minecraft:infested_chiseled_stone_bricks"}
       ]
     }
   ]
