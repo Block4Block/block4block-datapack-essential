@@ -122,7 +122,7 @@
               "function": "minecraft:enchanted_count_increase"
             }
           ],
-          "name": "minecraft:gunpowder"
+          "name": "minecraft:firework_rocket"
         },
         {
           "type": "minecraft:item",
