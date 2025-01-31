@@ -18,6 +18,15 @@
           "value": "block4block:entities/helpers/random_drop"
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "block4block:entities/helpers/end_drop"
+        }
+      ]
     }
   ]
 }
