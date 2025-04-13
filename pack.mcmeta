@@ -1,19 +1,32 @@
 {
 	"pack": {
-		"pack_format": 48,
-		"supported_formats": {"min_inclusive": 48, "max_inclusive": 61},
-		"description": "block4block essential datapack by hasjamon"
+		"pack_format": 71,
+		"supported_formats": {"min_inclusive": 48, "max_inclusive": 71},
+		"description": "block4block essential datapack by hasjamon & bahm"
 	},
 	"overlays": {
-		"entries": [
-			{
-				"formats": {"min_inclusive": 57, "max_inclusive": 2147483647},
-				"directory": "overlay_57"
-			},
-			{
-				"formats": {"min_inclusive": 61, "max_inclusive": 2147483647},
-				"directory": "overlay_61"
-			}
-		]
-	}
+    		"entries": [
+    			{
+    				"formats": {
+    					"min_inclusive": 57,
+    					"max_inclusive": 2147483647
+    				},
+    				"directory": "overlay_57"
+    			},
+    			{
+    				"formats": {
+    					"min_inclusive": 61,
+    					"max_inclusive": 2147483647
+    				},
+    				"directory": "overlay_61"
+    			},
+    			{
+    				"formats": {
+    					"min_inclusive": 71,
+    					"max_inclusive": 2147483647
+    				},
+    				"directory": "overlay_71"
+    			}
+    		]
+    	}
 }
