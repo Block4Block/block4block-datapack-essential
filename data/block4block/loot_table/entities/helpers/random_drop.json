@@ -612,8 +612,6 @@
                 {"type": "minecraft:item",
                 "name":"minecraft:end_crystal"},
                 {"type": "minecraft:item",
-                "name":"minecraft:end_portal_frame"},
-                {"type": "minecraft:item",
                 "name":"minecraft:end_rod"},
                 {"type": "minecraft:item",
                 "name":"minecraft:end_stone"},
