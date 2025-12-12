@@ -56,7 +56,7 @@
                             "function": "minecraft:enchanted_count_increase"
                         }
                     ],
-                    "name": "minecraft:gunpowder"
+                    "name": "minecraft:firework_rocket"
                 }
             ],
             "rolls": 1
