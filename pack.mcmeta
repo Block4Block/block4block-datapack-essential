@@ -3,11 +3,11 @@
         "pack_format": 48,
         "supported_formats": {
             "min_inclusive": 48,
-            "max_inclusive": 101
+            "max_inclusive": 107
         },
         "description": ["block4block essential datapack by hasjamon & bahm"],
         "min_format": 48,
-        "max_format": 101
+        "max_format": 107
     },
     "overlays": {
     		"entries": [
@@ -63,6 +63,24 @@
     				},
     				"directory": "overlay_88_0",
     				"min_format": 88,
+    				"max_format": 2147483647
+    			},
+    			{
+    				"formats": {
+    					"min_inclusive": 94,
+    					"max_inclusive": 2147483647
+    				},
+    				"directory": "overlay_94",
+    				"min_format": 94,
+    				"max_format": 2147483647
+    			},
+    			{
+    				"formats": {
+    					"min_inclusive": 107,
+    					"max_inclusive": 2147483647
+    				},
+    				"directory": "overlay_107",
+    				"min_format": 107,
     				"max_format": 2147483647
     			}
     		]
